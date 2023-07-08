@@ -4,7 +4,6 @@ A Feature Reuse Framework for Reference-based Super-Resolution with Texture-adap
 [arxiv](http://arxiv.org/abs/2306.01500)
 
 ## Dependencies
-Python >=3.7
-Pytorch == 1.7.1
+- Python >=3.7
+- Pytorch == 1.7.1
 
-## Overview
