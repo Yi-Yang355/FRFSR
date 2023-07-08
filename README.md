@@ -1,5 +1,5 @@
 # FRFSR
-A Feature Reuse Framework for Reference-based Super-Resolution with Texture-adaptive Aggregation
+A Feature Reuse Framework with Texture-adaptive Aggregation for Reference-based Super-Resolution
 [arxiv](http://arxiv.org/abs/2306.01500)
 
 ## Overview
