@@ -18,14 +18,14 @@ Because our code is heavily derived from [C2-Matching](https://github.com/yuming
 ![result](assets/vis_compare.png)
 
 ## Citation
-'''
+  ```
 @article{mei2023feature,
   title={A Feature Reuse Framework with Texture-adaptive Aggregation for Reference-based Super-Resolution},
   author={Mei, Xiaoyong and Yang, Yi and Li, Ming and Huang, Changqin and Zhang, Kai and Li{\'o}, Pietro},
   journal={arXiv preprint arXiv:2306.01500},
   year={2023}
 }
-'''
+  ```
 ## License and Acknowledgement
 
 This project is open sourced under MIT license. We refer to codes from [C2-Matching](https://github.com/yumingj/C2-Matching), [DATSR](https://github.com/caojiezhang/DATSR) and [BasicSR](https://github.com/xinntao/BasicSR). Thanks for their awesome works.
